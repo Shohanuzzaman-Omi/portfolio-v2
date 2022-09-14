@@ -1,0 +1,9 @@
+body{
+  background: linear-gradient(rgb(177, 177, 177),rgb(90, 174, 207), rgb(190, 122, 122));
+}
+.my-slider{
+  margin: 0 auto;
+}
+.my-slider h1{
+  text-align: center;
+}
